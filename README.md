@@ -65,4 +65,4 @@ The output will provide the following informtion.
 <li>earliest, most recent, most common year of birth (only available for NYC and Chicago)</li>
 </ui>
 <br></br>
-<i>This was an assignment 01 required for the Data Analysis Professional nanodegree from Udacity.</i>
+<i>This was assignment 01 required for the Data Analysis Professional nanodegree from Udacity.</i>
